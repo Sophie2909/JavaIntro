@@ -4,7 +4,7 @@ Este proyecto está dividido en 3 secciones diferentes de acuerdo al tipo de eje
 
 	1.Ejercicios iniciales
 	2.Ejercicios de aprendizaje
-	3.Ejercicios extra
+	3.Ejercicios extra 
 
 ## Duración del proyecto
 
